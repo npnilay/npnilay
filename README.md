@@ -1,6 +1,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=npilay&label=Profile%20views&color=0e75b6&style=flat" alt="npnilay" /> </p>
-Hello ! This is Nilay Pandey
-Seeking for Entry-level position as Software developer or Web developer
-|Senior yearite | Head Secretory (Reboot Club)|
-Java | Python| HTML5| CSS 3| Js |AI| Machine learning| Nodejs| Unit Testing | DBMS | SQL|
-5⭐ Hackerrank Java and Python l Problem solving |
+
+# 👋 Hi, I’m @Nilay Pandey. 
+ - I am a senior year student of BTechBachelor's of Technology).
+ - Noida Institute of Emgineering and Technology, Greater Noida.
+ - Seeking for Entry level position in software developer or Web developer role.
+# 👀 I’m interested in ... 
+ - Software Development
+ - Web Development
+ - Machine learning , Artificial Intelligence & NLP.
+# 🌱 My Skills are-
+  - java , Python , HTML, CSS, Javascript, Nodejs, Springboot
+# 🌱 I’m currently learning ... 
+ - HTML, CSS, TailwindCSS, Backend ...  
+# 💞️ I’m looking to collaborate on ... 
+ - open source projects and get started with open source 
+# 📫 How to reach me ... 
+ - email - np.nilay21@gmail.com .
+ - linkedin - [Nilay pandey](https://www.linkedin.com/in/nilay-pandey-8a59491a4)
+# Social platforms
+ -  five star ⭐| Hackerrank Java and | Python | Problem solving |
