@@ -1,9 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=npilay&label=Profile%20views&color=0e75b6&style=flat" alt="npnilay" /> </p>
 
 # 👋 Hi, I’m @Nilay Pandey. 
- - I am a senior year student of BTechBachelor's of Technology).
- - Noida Institute of Emgineering and Technology, Greater Noida.
- - Seeking for Entry level position in software developer or Web developer role.
+ - I am a senior year student of BTech(Bachelor's of Technology).
+ - Noida Institute of Engineering and Technology, Greater Noida.
+ - Seeking for Entry level position into software developer or Web developer role.
 # 👀 I’m interested in ... 
  - Software Development
  - Web Development
