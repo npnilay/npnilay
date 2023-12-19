@@ -8,7 +8,7 @@
  - Software Development
  - Web Development
  - Machine learning , Artificial Intelligence & NLP.
-# 🌱 My Skills are-
+# 🌱 My Skills are...
   - java , Python , HTML, CSS, Javascript, Nodejs, Springboot
 # 🌱 I’m currently learning ... 
  - HTML, CSS, TailwindCSS, Backend ...  
@@ -19,3 +19,4 @@
  - linkedin - [Nilay pandey](https://www.linkedin.com/in/nilay-pandey-8a59491a4)
 # Social platforms
  -  five star ⭐| Hackerrank Java and | Python | Problem solving |
+ -  Solved 100+ problem Solving on Hackerearth.
