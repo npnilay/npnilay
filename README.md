@@ -3,7 +3,7 @@
 # 👋 Hi, I’m @Nilay Pandey. 
  - I am a senior year student of BTech(Bachelor's of Technology).
  - Noida Institute of Engineering and Technology, Greater Noida.
- - Seeking for Entry level position into software developer or Web developer role.
+ - Seeking for Entry level position into software developer or AI/ML Engineer.
 # 👀 I’m interested in ... 
  - Software Development
  - Web Development
