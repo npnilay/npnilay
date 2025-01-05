@@ -4,7 +4,7 @@
  -  BTech(Bachelor's of Technology in cse----2024).
  - Noida Institute of Engineering and Technology, Greater Noida.
  - Software developer at Multiverse Solutions & ML Engineer.
- - DOmain - Data Science (Azure AI/ML)
+ - Domain - Data Science (Azure AI/ML)
 # 👀 I’m interested in ... 
  - Software Development, Data Science
  - Machine learning, Artificial Intelligence & NLP.
